@@ -13,7 +13,7 @@ This project is a smart mobile robot capable of detecting fire using computer vi
 ## 🛠️ Technologies Used
 
 - Python + OpenCV (for image processing)
-- YOLOv3 model (for fire classification)
+- YOLOv5 model (for fire classification)
 - C (for STM32 motor control)
 - PID Algorithm (for DC motor control)
 - Raspberry Pi (as main controller)
