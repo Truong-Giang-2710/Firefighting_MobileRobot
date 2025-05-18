@@ -8,7 +8,7 @@ This is my invidiual project which is a smart mobile robot capable of detecting 
 - 🚗 **Autonomous Navigation**: Automatically approaches the fire source using camera feedback and obstacle avoidance sensors.
 - 📷 **Camera Module**: Captures live video input for AI-based fire recognition.
 - 🧠 **Embedded System**: Built on Raspberry Pi and STM32 microcontroller for real-time processing and control.
-- 
+
  💡Project Purpose & Applications
     🏫 STEM Education: Demonstrates real-world integration of AI, robotics, and control systems.
     🏭 Factories & Industrial Zones: Prototype for autonomous fire response in production environments where early detection and rapid action can prevent costly damage.
