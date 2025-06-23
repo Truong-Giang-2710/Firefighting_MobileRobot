@@ -1,6 +1,8 @@
 # 🔥 Firefighting Mobile Robot
 
-This is my invidiual project which is a smart mobile robot capable of detecting fire using computer vision and AI, navigating towards the flame, and extinguishing it. It is designed for fire hazard simulation and educational purposes.
+ Describe project: This is my invidiual project which is a smart mobile robot capable of detecting fire using computer vision and AI, navigating towards the flame, and extinguishing it. It is designed for fire hazard simulation and educational purposes.
+ Teamsize: 1 
+ Person: I programmed to control 2 DC servo motors using PID controller and OpenCV image processing program, in addition I also trained AI data on googlecolab. Besides, I have UART communication between 2 microcontrollers Raspberry and STM32.  
 
  💡 Features
 - 🔍 **Fire Detection via AI**: Uses image processing and a lightweight deep learning model (CNN or YOLO) to detect flames in real time.
@@ -16,7 +18,7 @@ This is my invidiual project which is a smart mobile robot capable of detecting 
     🏠 Smart Homes: Basis for future autonomous fire-prevention assistants.
     🧪 R&D and Prototyping: Serves as a testing platform for more advanced firefighting robots.
   
- 🛠️ Technologies Used
+ 🛠️ Technical Used
 - Python + OpenCV (for image processing)
 - YOLOv5 model (for fire classification)
 - C (for STM32 motor control)
