@@ -6,6 +6,14 @@
  
  Person: I programmed to control 2 DC servo motors using PID controller and OpenCV image processing program, in addition I also trained AI data on googlecolab. Besides, I have UART communication between 2 microcontrollers Raspberry and STM32.  
 
+ Hardware: 
+  Raspberry Pi 3B
+  STM32F103C8T6
+  Camera USB2.0
+  Driver L298N 
+  DC Servo
+ 
+
  💡 Features
 - 🔍 **Fire Detection via AI**: Uses image processing and a lightweight deep learning model (CNN or YOLO) to detect flames in real time.
 - 🎯 **PID-Controlled DC Motors**: Ensures smooth and accurate movement using PID algorithm for motor speed and direction control.
