@@ -8,9 +8,13 @@
 
  Hardware: 
   Raspberry Pi 3B
+  
   STM32F103C8T6
+  
   Camera USB2.0
-  Driver L298N 
+  
+  Driver L298N
+  
   DC Servo
  
 
